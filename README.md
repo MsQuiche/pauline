@@ -1,2 +1,2 @@
 # pauline
-Test des focntionalités GitHub - Perso
+Test des fonctionalités GitHub - Perso
